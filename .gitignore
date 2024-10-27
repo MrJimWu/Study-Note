@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/TcpClient/bin/Debug/net8.0
+/TcpServcieForNetCore/obj
+/UdpClientApp/obj
+/通信合集/bin/Debug/net8.0
+/通信合集/obj
+/TcpServcieForNetCore/bin/Debug/net8.0
+/TcpClient/obj
